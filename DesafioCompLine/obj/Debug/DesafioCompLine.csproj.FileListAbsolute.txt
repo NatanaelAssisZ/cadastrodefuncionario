@@ -1,0 +1,16 @@
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\bin\Debug\DesafioCompLine.exe.config
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\bin\Debug\DesafioCompLine.exe
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\bin\Debug\DesafioCompLine.pdb
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.csprojResolveAssemblyReference.cache
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.Cadastro_Funcionario.resources
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.Properties.Resources.resources
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.csproj.GenerateResource.Cache
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.exe
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.pdb
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.Painel_Principal.resources
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.Pesquisar.resources
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.AlterarExcluir.resources
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\bin\Debug\DesafioCompLine.exe.manifest
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\bin\Debug\DesafioCompLine.application
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.exe.manifest
+c:\users\natan\documents\visual studio 2015\Projects\DesafioCompLine\DesafioCompLine\obj\Debug\DesafioCompLine.application
